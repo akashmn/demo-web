@@ -19,9 +19,9 @@ import Jerry from '../../assets/Jerry3.svg';
 import Megha from '../../assets/Megha3.svg';
 import Hari from '../../assets/Hari1.svg';
 import George from '../../assets/George2.svg';
-import MeetTheTeam from '../../assets/meet the team black.svg';
-import SubExecom from '../../assets/SUB EXECOM B.svg';
-import MainExecom from '../../assets/MAINEXECOMB.svg';
+import MeetTheTeam from '../../assets/meettheteamblack.svg';
+import SubExecom from '../../assets/SUBEXECOMB.svg';
+import MainExecom from '../../assets/MAINEXECOMb.svg';
 
 
 function Execom() {
